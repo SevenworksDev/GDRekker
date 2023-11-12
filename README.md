@@ -13,6 +13,7 @@ TODO:
 - BOTTING: Create dead proxy remover
 - PUBLIC_API: Create counter API
 - PUBLIC_API: Create donate account API
+- PUBLIC_API: Create botting API
 - SEVENWORKS_ONLY: Create administration page
 - SEVENWORKS_ONLY: Create IP banning tool
 - SEVENWORKS_ONLY: Create activity log tool
