@@ -1,6 +1,6 @@
 # GDRekker (rekt.nishi.boats)
 ## QUICK UPDATE
-I plan to upload this once the code is heavily optimized and when its pretty much done.  
+I plan to upload the code once its heavily optimized and when its pretty much done.  
 I want this to look nice instead of the worst thing you have ever seen.  
 100% of the website will be uploaded (except accounts, duh) once this site is 100% finished or at least stable.
 ## TODO
